@@ -1,4 +1,4 @@
-Kirjuta oma nimi: 
+Kirjuta oma nimi: Roman
 SQL - 
 DDL -
 DML - 
