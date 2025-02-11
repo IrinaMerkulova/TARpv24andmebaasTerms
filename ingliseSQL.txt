@@ -29,12 +29,12 @@ date - date
 time - time
 blob - binary large object
 --------------------------
-Constraints - 
+Constraints - restrictions
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - required
+UNIQUE - distinct
+PRIMARY KEY - identifier
+FOREIGN KEY - reference
+CHECK - validation
+DEFAULT - preset
+CREATE INDEX - optimization 
