@@ -1,13 +1,13 @@
 Kirjuta oma nimi: jelena
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
- 
+SQL - Structured Query Language/язык структурированных запросов
+DDL -Data Definition Language/язык описания данных
+DML - Data Manipulation Language/язык управлени данными
+Database - andmebaas
+Database management system - andmebaasi haldus süsteem
+Related table - seotud tabelid
+Relational database - relatiivne andmebaas
+Relationship - seos
+-------------------- 
 Primary Key - 
 Foreign Key - 
 One-to-many relationship - 
