@@ -1,12 +1,14 @@
 Kirjuta oma nimi: Mark Jurgen
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+SQL - Structured Query Language
+DDL - Data Definition Language
+DML - Data Manipulation Language
+Database - Andmebaas
+Database management system - Andmebaasi haldus süsteem 
+Related tables - seotud tabelid
+Relational database - relatiivne andmebaas
+Relationship - seos
+
+----------------------------------------
  
 Primary Key - 
 Foreign Key - 
