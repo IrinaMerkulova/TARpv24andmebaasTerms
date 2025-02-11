@@ -1,14 +1,15 @@
 Kirjuta oma nimi: Adriana Pikaljov
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+SQL - structured query language - struktuuri päringu keel
+DDL - data definition language - andmete määratlemise keel
+DML - data manipulation language - andmetöötluskeel
+Database - andmebaas
+Database management system - andmebaasi haldussüsteem
+Related table - seotud tabel
+Relational database - relatiivne andmebaas
+Relationship - seos
+--------------------------------------
  
-Primary Key - 
+Primary Key -
 Foreign Key - 
 One-to-many relationship - 
 One-to-one relationship - 
