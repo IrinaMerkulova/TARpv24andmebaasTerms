@@ -1,12 +1,12 @@
 Kirjuta oma nimi: Jevgeni 
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+SQL - Structured query language -Структурный язык запросов
+DDL - Data definition language - язык определения данных
+DML - Data manipulation Language - язык управление данными
+Database - Andmebass
+Database management system - Andmebaasi haldussüsteem
+Related tables - seotud tabelid 
+Relational database - relatiivne andmebaas
+Relationship - seos
  
 Primary Key - 
 Foreign Key - 
