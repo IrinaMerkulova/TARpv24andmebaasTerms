@@ -1,0 +1,37 @@
+Kirjuta oma nimi: Radasheva
+SQL - structured query language - структурный язык запросов
+DDL - data definition language - язык определения данных
+DML -  data manipulation language - язык управления данных
+Database - andmebaas
+Database management system - andmeebaasi haldussüsteem  
+Related table - связанные таблицы - seotud tabelid
+Relational database - relatiivne andmebaas
+Relationship - seos - отношения
+--------------------------
+Primary Key - первичный ключ
+Foreign Key - внешний ключ
+One-to-many relationship - отношения один к многим
+One-to-one relationship - отношения один до одного
+Query - запрос
+Report - отчет
+Form - форма -vorm 
+Data type - Andmetüüp 
+char - строковый тип данных фиксированной длины - fikseeritud pikkusega stringi andmetüüp.
+int - целочисленный тип для хранения целых чисел - täisarvu tüüp täisarvude salvestamiseks.
+decimal - числовой тип для хранения чисел с фиксированными символами - numbriline tüüp fikseeritud tähtedega numbrite salvestamiseks.
+text - строковый тип для хранения текстов - string-tüüp tekstide salvestamiseks.
+bit - тип для хранения одного бита (0 или 1) - tüüp ühe biti (0 või 1) salvestamiseks.
+bool - логический тип для хранения значений true/false - boole'i tüüp tõene/vale väärtuste salvestamiseks. 
+date - тип для хранения даты - tüüp kuupäeva salvestamiseks.
+time - тип для хранения времен - tüüp aegade salvestamiseks.
+blob - тип для хранения бинарных данны - tüüp binaarsete andmete salvestamiseks.
+--------------------------
+Constraints - ограничения
+
+NOT NULL - столбец не может содержать значения NULL - veerg ei saa sisaldada NULL väärtusi
+UNIQUE - все значения в столбце должны быть уникальными - kõik veeru väärtused peavad olema unikaalsed
+PRIMARY KEY - уникальный идентификатор записи - kirje unikaalne identifikaator.
+FOREIGN KEY - связь между таблицами, проверка соответствия значений в других таблицах - seostamine tabelite vahel, teistes tabelites olevate väärtuste vastavuse kontrollimine
+CHECK - условие для значений в столбце - tingimus veerus olevate väärtuste jaoks
+DEFAULT -  значение по умолчанию для столбца - veeru vaikeväärtus.
+CREATE INDEX -  создание индекса для ускорения поиска данных в таблице - indeksi loomine, et kiirendada andmete otsimist tabelis.
