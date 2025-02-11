@@ -1,4 +1,4 @@
-Kirjuta oma nimi: 
+Kirjuta oma nimi: jelena
 SQL - 
 DDL -
 DML - 
