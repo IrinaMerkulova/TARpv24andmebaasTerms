@@ -26,12 +26,12 @@ date - kuupäev
 time - aeg
 blob - Binary Large Object - suur binaarandmed
 --------------------------
-Constraints - 
+Constraints - piirangud
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - veerg ei saa olla nool, või tühi
+UNIQUE - veerg peab olema unikaalne, ei saa korduda
+PRIMARY KEY - esmane võti, mis tuvastab kirje tabelis
+FOREIGN KEY - seos teise tabeliga
+CHECK - piirang, kasutatakse veergu paigutatava väärtusvahemiku piiramiseks
+DEFAULT - kui muud väärtust pole määratud, lisatakse kõigile uutele kirjetele vaikeväärtus
+CREATE INDEX - andmete kiiremaks hankimiseks andmebaasist kasutatakse indekseid
