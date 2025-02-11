@@ -1,13 +1,13 @@
 Kirjuta oma nimi: Roman
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
- 
+SQL - Structured query language
+DDL - data definition language
+DML - data manipulation language
+Database - база данных
+Database management system - система управление базами данных
+Related table - связанная таблица
+Relational database - relatiivne andmebaas
+Relationship - seos
+ ----------------------
 Primary Key - 
 Foreign Key - 
 One-to-many relationship - 
