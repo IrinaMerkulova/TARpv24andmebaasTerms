@@ -8,21 +8,31 @@ Related table - seotud tabelid
 Relational database - relatiivne andmebaas
 Relationship - seos
 ----------------------------------------------------------------------------
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - esmane võti - первичный кллюч
+Foreign Key - võõr võti - внешний ключ
+One-to-many relationship - Üks-mitmele suhe - Связть от одного ко многим 
+One-to-one relationship - Üks-ühele suhe - Взаимные однозначные связи сред
+Query - Päring - Запрос
+Report - Teata - отчет
+Form - Vorm - форма
+Data type - Andmetüüp
+varchar - määramata pikkusega märgiandmete kogum
+char - kasutatakse ühe märgi salvestamiseks
+int - täisarv
+decimal - ujukomaarv
+text - Maksimaalse tähemärgi pikkusega string
+bit - Andmetüüp, mis toetab väärtust 1 või 0. Tõene Väär
+bool - Andmetüüp Tõene Väär
+date - Kuupäeva andmetüüp
+time - Aega andmetüüp
+blob - binaarne suur objekt, mis mahutab muutuva hulga andmeid (большой двоичный объект, который может содержать переменный объем данных)
 --------------------------
-Constraints - 
+Constraints - Piirangud
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - ei aktsepteeri NULL väärtusi
+UNIQUE - tagab, et kõik veerus olevad väärtused on erinevad
+PRIMARY KEY - identifitseerib üheselt iga kirje tabelis
+FOREIGN KEY - väli ühes tabelis
+CHECK - piirata väärtusi teatud veergudes
+DEFAULT - kasutatakse veeru vaikeväärtuse määramiseks
+CREATE INDEX - kasutatakse indeksite loomiseks tabelites
