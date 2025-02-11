@@ -1,13 +1,13 @@
 Kirjuta oma nimi: Hussein
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
- 
+SQL - structured query language - язык структурированных запросов
+DDL - data defenition language - язык определения данных
+DML - Data Manipulation language - язык управления данными
+Database - andmebaas
+Database management system - andmebaasi haldussüsteem
+Related tables - seotud tabelid
+Relational database - relatiivne andmebaas
+Relationship - seos
+ ----------------------------
 Primary Key - 
 Foreign Key - 
 One-to-many relationship - 
