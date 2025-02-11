@@ -1,0 +1,51 @@
+Incorrect syntax near ';'.
+--неверный синтаксис запроса
+
+----------------------------------------------------
+Table level constraint or index does not specify column list, table 'test'.
+-- puudub veerg kuhu lisatakse primaarne võti;
+
+-- vigane SQL: ALTER TABLE test add primary key;
+-- õige SQL:
+ALTER TABLE test alter column id int not null;
+ALTER TABLE test add primary key (id);
+----------------------------------------------------
+
+Invalid object name 'test2'.
+--puudub object name 'test2'.
+--vigane SQL:
+Insert into test2(id, test)
+VALUES ('t', 'test');
+
+----------------------------------------------------
+Invalid column name 'test'.
+--puudub veerg nimega test
+----------------------------------------------------
+Conversion failed when converting the varchar value 't'
+-- andmetüübid tabelis on int, aga me sisatamine  teksti 't'
+
+String or binary data would be truncated in table 'veateade.dbo.test',
+column 'nimi'. Truncated value: 't'.
+--oli salvestatud varchar(1) aga me sistame 'test'
+õige SQL:
+ALTER TABLE test alter column nimi varchar(25);
+Insert into test(id, nimi) VALUES (1, 'test')
+
+---------------------------------------------------
+There is already an object named 'lisaTest' in the database
+Kui teil on valminud protseduur, te ei pea looma uuesti
+
+SQL:
+CREATE PROCEDURE lisaTest
+@nimi varchar(25),
+@id int
+AS
+BEGIN
+Insert into test(id, nimi)
+values (@nimi, @id);
+SELECT * from test
+
+END;
+
+vastus:
+drop procedure lisaTest;
