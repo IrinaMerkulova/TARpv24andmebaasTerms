@@ -26,12 +26,12 @@ date - дата
 time - время
 blob
 --------------------------
-Constraints - 
+Constraints - Piirangud
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - põllul peavad olema sümbolid
+UNIQUE - servas sõna või millegi nime ei tohi korrata
+PRIMARY KEY - Первичный ключ - Esmane võti
+FOREIGN KEY - Внешний ключ - Välisvõti
+CHECK -  piirata veergu paigutatavate väärtuste vahemikku.
+DEFAULT - määrab veeru vaikeväärtuse.
+CREATE INDEX - indeksite loomine tabelites.
