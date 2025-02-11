@@ -1,6 +1,10 @@
 cd Desktop
+перейти на Desktop
 cd ..
+перейти на одну папку назад
 c:
+перейти на C диск
+
 git config --global user.name "nikitanikiforov"
 git система сохраняет твое имя
 git config --global user.email "nikitanikiforov08@gmail.com"
@@ -9,10 +13,18 @@ git config --global --list
 посмотреть что сохранил git
 
 git status
+посмотреть статус ветки
+
 git branch nikitan
+создать свою ветку
+
 git checkout nikitan
+переключиться на свою ветку
 
 git add .
 git commit -a -m "text"
+требуется для комита файла
+
 git push
 git push --set-upstream origin nikitan
+публикация файла
