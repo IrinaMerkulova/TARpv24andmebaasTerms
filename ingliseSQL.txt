@@ -29,10 +29,10 @@ blob - Suur binaarne objekt. Salvestab binaarseid andmeid.
 --------------------------
 Constraints - Piirangud
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - Pole null
+UNIQUE - Unikaalne - Ainult üks kord tabelis
+PRIMARY KEY -  Primaarne võti - Lisab andmetabelis iga kirje unikaalsus
+FOREIGN KEY - Välisvõti - Seos teise tabeliga
+CHECK - Kontroll - määrab kindlaks tingimuse, et neid lubataks.
+DEFAULT - Vaikimis
+CREATE INDEX - Looma Index - luua indeksid tabelites
