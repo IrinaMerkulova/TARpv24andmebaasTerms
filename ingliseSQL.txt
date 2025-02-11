@@ -1,13 +1,13 @@
 Kirjuta oma nimi: Radasheva
-SQL - a
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
- 
+SQL - structured query language - структурный язык запросов
+DDL - data definition language - язык определения данных
+DML -  data manipulation language - язык управления данных
+Database - andmebaas
+Database management system - andmeebaasi haldussüsteem  
+Related table - связанные таблицы - seotud tabelid
+Relational database - relatiivne andmebaas
+Relationship - seos
+----------------------------
 Primary Key - 
 Foreign Key - 
 One-to-many relationship - 
