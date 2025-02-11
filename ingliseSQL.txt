@@ -29,10 +29,10 @@ blob - двоичные данные (например, изображения, 
 --------------------------
 Constraints - 
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - НЕ NULL
+UNIQUE - УНИКАЛЬНО
+PRIMARY KEY - ПЕРВИЧНЫЙ КЛЮЧ
+FOREIGN KEY - ВНЕШНИЙ КЛЮЧ
+CHECK - ПРОВЕРКА
+DEFAULT - ПО УМОЛЧАНИЮ
+CREATE INDEX - СОЗДАТЬ ИНДЕКС
