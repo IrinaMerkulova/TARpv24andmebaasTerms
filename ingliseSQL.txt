@@ -1,12 +1,12 @@
 Kirjuta oma nimi: Artjom Põldsaar
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+SQL - Structure Query Language - Структурный язык запросов
+DDL - Data Definition Language - Язык определения данных
+DML - Data Manipulation Language - Язык упраления данными
+Database - Andmebaas
+Database management system - Andmebaasi Haldussüsteem
+Related tables - Seotud tabelid - Связанная таблица
+Relational database - relatiivne andmebaas - реляционная база данных
+Relationship - Seos - Связь
  
 Primary Key - 
 Foreign Key - 
