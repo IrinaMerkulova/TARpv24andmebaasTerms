@@ -1,13 +1,13 @@
 Kirjuta oma nimi: Nikita Nikiforov
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
- 
+SQL - Structured query language - структурный язык запросов
+DDL - Data Definition language - язык определения данных
+DML - Data Manipulation language - язык управления данными
+Database - andmebaas
+Database management system - andmebaasi haldussüsteem
+Related table - seotud tabelid
+Relational database - relatiivne andmebaas
+Relationship - seos
+----------------------------------------------------------------------------
 Primary Key - 
 Foreign Key - 
 One-to-many relationship - 
