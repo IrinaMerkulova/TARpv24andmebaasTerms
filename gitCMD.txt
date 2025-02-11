@@ -1,0 +1,20 @@
+
+cd desktop
+git config  --global user.name "JevgeniKetsko"
+git config --global user.email "Jevgeni.Ketsko@gmail.com
+git config --global --list
+
+--git süüsteemis salvestatakse sinu nimi
+git config --global --list
+--näitab mis git salvestas
+Git branch Jevgeni
+Git checkout Jevgeni
+Git status
+---------
+Git add .
+git commit -a -m "Põhimõisted on tõlgitud"
+git status
+git push
+----------
+git push --set-upstream origin Jevgeni
+--------
