@@ -8,14 +8,23 @@ Related table - seotud tabletid
 Relational database - relatiivne andmebaas
 Relationship - seos
 --------------------------------
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - Первичный ключ - Esmane võti
+Foreign Key - Внешний ключ - Välisvõti
+One-to-many relationship - отношения один ко многим - Üks-mitmele suhted 
+One-to-one relationship - отношение один к одному - Üks-ühele suhe
+Query - запрос - päring
+Report - отчет - aruanne
+Form - бланк - vorm
+Data type / - andmetüüp
+varchar - поле сменых символов
+char 
+int - числа . arv
+decimal - числа с цифрой после комы - ujukomaarv
+text - текст
+bit, bool - переменая потипу "0", "1"
+date - дата
+time - время
+blob
 --------------------------
 Constraints - 
 
