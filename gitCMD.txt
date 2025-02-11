@@ -1,0 +1,16 @@
+cd desktop
+config --global user.name "NikitaOrlenko"
+git config --global user.email "nikita.orlenko234@gmail.com"
+
+git config --global --list 
+NÄITAB MIS GIT SALVESTAB
+cd TARpv24andmebaasTerms вошел в папку
+git branch Nikita создал ветку
+git checkout Nikita вошел
+git status
+------------------------
+git add
+git commit -a -m "Põhimõisted on tõlgitud"
+git status
+git push
+-----------------------------
