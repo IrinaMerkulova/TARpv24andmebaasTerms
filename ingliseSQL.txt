@@ -1,12 +1,13 @@
 Kirjuta oma nimi: Illia
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+SQL - Structured Query Language - структурный язык запросов
+DDL - Data Definition Language - язык определения данных
+DML - Data Manipulation Language - язык управления данными
+Database - Andmebaas - База данных
+Database management system - Andmebaasi haldussüsteem - система управления базами данных
+Related table - Seotud tabelid - связанные таблицы
+Relational database - Relatiivne andmebaas - реляционная база данных
+Relationship - seos - связь или отношения
+-------------------
 Record - 
 Primary Key - 
 Foreign Key - 
