@@ -1,0 +1,30 @@
+SQL veateated ja nenede lahendamine
+
+Incorrect syntax near ';'
+--не верный синтаксис запроса 
+
+Table level constraint or index does not specify column list,
+table 'test'.
+puudub veerg kuhu lisatakse priimarne võti ; 
+- vigane SQL: alter table test add primary key;
+-- õige SQL: 
+alter table test alter column id int not null;
+alter table test add primary key (id);
+
+Invalid column name 'test'.
+--puudub verg nimega test
+
+Invalid object name 'test2'
+--insert into test2(id, test)
+--
+
+Conversion failed when converting the varchar value 't' to data type int.
+--ei tohi panna varchar andmetüppi kus on int
+
+String or binary data would be truncated in table 'Veateade.dbo.test',
+ column 'nimi'. Truncated value: 'M'.
+--on vatchar(1), on vaja tabeli muuda
+--õige SQL
+insert into test(id, nimi)
+values (1, 'Mark')
+alter table test alter column nimi varchar(25);

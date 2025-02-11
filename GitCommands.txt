@@ -9,4 +9,4 @@ git status
 git add . 
 git push
 git push --set-upstream origin MarkJurgen
-git commit -a -m ""
+git commit -a -m "SQL veateated selgitustega"
