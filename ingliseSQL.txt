@@ -8,20 +8,29 @@ Related table - seotud tabel
 Relational database - relatiivne andmebaas
 Relationship - seos
 --------------------------------------
- 
-Primary Key -
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - primaarne võti
+Foreign Key - välisvõti
+One-to-many relationship - üks-mitmele seos
+One-to-one relationship - üks-ühele seos
+Query - päring
+Report - aruanne
+Form - Vorm
+Data type / 
+varchar - muutuva pikkusega tekst
+char - fikseeritud pikkusega tekst
+int - täisarv
+decimal - fikseeritud täpsusega murdarv
+text - muutuva pikkusega tekst
+bit - andmetüüp võimaldab hoida ühte baiti
+bool - loogiline väärtus
+date - kuupäev 
+time - aeg
+blob - salvestab suuri faile (nt. pilt)
 --------------------------
 Constraints - 
 
-NOT NULL - 
-UNIQUE - 
+NOT NULL -
+UNIQUE - unikaalne
 PRIMARY KEY - 
 FOREIGN KEY - 
 CHECK - 
