@@ -1,0 +1,33 @@
+SQL veateated ja nende lahendamine
+1. Incorrect syntax near ';'
+ неверный синтаксис запроса
+2. Table level constraint or index does not specify column list, table 'test'.
+ --puudub veerg kuhu lisatakse primaarne võti
+ --vigane SQL: ALter table test add primary key; 
+ -- õige SQL:Alter table test alter column id int not null;
+ --          Alter table test add primary key (id);
+3. Invalid column name 'test'.
+ --puudub tabel nimega test 2
+ --vigane SQL: 
+insert into test2(id, test)
+values ('t','test')
+4. Invalid column name 'test'.
+ -- puudub column name 'test'
+5. Conversion failed when converting the varchar value 't' to data type int.
+ -- andmetüüp tabelis on int, aga me sisestame teksti 't'
+ --õige sql 
+6. Database 'veateadeы' does not exist. Make sure that the name is entered correctly.
+ -- База данных гн
+ -- vigane SQL: 
+create database veateade
+use veateades
+ -- õige SQL: 
+create database veateade
+use veateade
+7. Ошибка: Сравнение числа id со строкой 'twenty'.
+Lahendus: Kasuta õigeid andmetüüpe võrdluses
+
+8. Ошибка: Invalid object name 'veateade'.
+Lahendus: Veendu, et tabel veateade on olemas või kasuta õiget andmebaasi.
+
+-------------------------------------------------------------------------------------------
