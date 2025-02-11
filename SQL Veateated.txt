@@ -1,0 +1,25 @@
+SQL Veateated ja nende lahendamine
+
+1. Incorrect syntax near '...'.
+-Неверный синтаксис
+
+2. Table level constraint or index does not specify column list, table 'test'.
+-Viga: ALTER TABLE test ADD PRIMARY KEY;
+-Õige: 
+ALTER TABLE test ALTER COLUMN id int not null;
+ALTER TABLE test ADD PRIMARY KEY (id);
+
+3,4,5. Invalid object/column name 'test2',
+Conversion failed when converting the varchar value '...' to data type int.
+-Отсутствует таблица/ряд с именем test2
+-В базе данных целые числа но мы вставили текст
+-Viga:
+INSERT INTO test2 (id, test)
+VALUES ('t','test')
+-Õige: 
+INSERT INTO test (id, nimi)
+VALUES (1,'test')
+
+6. String or binary data would be truncated in table '...', column '...'. Truncated value: '...'.
+-Было сохранено varchar(1) но мы написали test
+-ALTER TABLE test ALTER COLUMN nimi varchar(25);
