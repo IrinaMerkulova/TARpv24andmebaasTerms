@@ -8,14 +8,23 @@ Related tables - Seotud tabelid - Связанная таблица
 Relational database - relatiivne andmebaas - реляционная база данных
 Relationship - Seos - Связь
  
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
+Primary Key - Esmane võti
+Foreign Key - Võõrvõti
+One-to-many relationship - üks-mitmele seos
+One-to-one relationship - üks-ühele seos
+Query - päring
+Report - aruanne
+Form - vorm
 Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+varchar - tekst piiratud arvu tähemärkidega
+char - väike tekst
+int - täisarv
+decimal - ujukomaarv
+text - suur piiramatu tekst
+bit, bool - loogiline tõene/väär andmetüüp
+date - kuupäev
+time - aeg
+blob - Binary Large Object - suur binaarandmed
 --------------------------
 Constraints - 
 
