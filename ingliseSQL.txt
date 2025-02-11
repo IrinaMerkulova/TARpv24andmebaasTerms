@@ -1,12 +1,12 @@
 Kirjuta oma nimi: Maksim
-SQL - Structured Query Language
-DDL - 
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+SQL - Structured Query Language - Структурный язык запросов
+DDL - Data Definicion Language - Язык описания данных
+DML - Data Manipulation Language - Язык управления данными
+Database - База-данных - Andmebaas
+Database management system - Система управления базами данных - Andmebaasi haldussüsteem
+Related table - Связанные таблицы - Seotud tabelid
+Relational database - Реляционная база данных - Relatiivne andmebaas
+Relationship - Отношение - Seos
  
 Primary Key - 
 Foreign Key - 
