@@ -1,0 +1,23 @@
+▒▒▒▒▒▒▒▄██████████▄▒▒▒▒▒▒▒
+▒▒▒▒▒▄██████████████▄▒▒▒▒▒
+▒▒▒▒██████████████████▒▒▒▒
+▒▒▒▐███▀▀▀▀▀██▀▀▀▀▀███▌▒▒▒
+▒▒▒███▒▒▌■▐▒▒▒▒▌■▐▒▒███▒▒▒
+▒▒▒▐██▄▒▀▀▀▒▒▒▒▀▀▀▒▄██▌▒▒▒
+▒▒▒▒▀████▒▄▄▒▒▄▄▒████▀▒▒▒▒
+▒▒▒▒▐███▒▒▒▀▒▒▀▒▒▒███▌▒▒▒▒
+▒▒▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒▒▒
+▒▒▒▒▒██▒▒▀▀▀▀▀▀▀▀▒▒██▒▒▒▒▒
+▒▒▒▒▒▐██▄▒▒▒▒▒▒▒▒▄██▌▒▒▒▒▒
+▒▒▒▒▒▒▀████████████▀▒▒▒▒▒▒
+
+git config --global user.name "..." - nimi lisamine
+git config --global user.email "...@gmail.com" - email lisamine
+git config --global -- list
+git branch igoraleksejev
+git checkout igoraleksejev
+----------
+git add .
+git commit -a -m "Nimi on lisatud"
+git push
+git status
