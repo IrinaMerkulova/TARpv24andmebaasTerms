@@ -1,4 +1,4 @@
-Kirjuta oma nimi: 
+Kirjuta oma nimi: Nikita
 SQL - 
 DDL -
 DML - 
