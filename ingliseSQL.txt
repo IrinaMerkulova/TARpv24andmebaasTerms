@@ -27,12 +27,11 @@ date - kuupäev
 time - aeg
 blob - salvestab suuri faile (nt. pilt)
 --------------------------
-Constraints - 
-
-NOT NULL -
-UNIQUE - unikaalne
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+Constraints - Piirangud
+NOT NULL - tühjade veergude lubamine
+UNIQUE - unikaalsed võtmed,  tähendab, et kahel tabeli kirjel ei saa olla sellel väljal sama väärtust 
+PRIMARY KEY - primaarne võti
+FOREIGN KEY - välisvõtmed,seose loomine piirangu abil
+CHECK -  näitab ära tingimuse, millele peab vastama iga rida
+DEFAULT - kontroll
+CREATE INDEX - loo index
