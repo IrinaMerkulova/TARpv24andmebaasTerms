@@ -10,14 +10,24 @@ Relationship - seos
 
 ----------------------------------------
  
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - unikaalne veerg 
+Foreign Key -  viitab teise tabeli primaarvõtmele 
+One-to-many relationship - üks kirje on seotud mitme teise kirjetega
+One-to-one relationship - üks kirje on seotud ainult ühe teise kirjetega
+Query - SQL-käsk andmete pärimiseks või muutmiseks
+Report - andmete kokkuvõte või väljatrükk
+Form - kasutajaliides andmete sisestamiseks või muutmiseks
+Data type / 
+varchar - variable-length string
+char- fixed-length string 
+int - integer
+decimal - precise numeric
+text - large text
+bit -  binary
+bool - boolean
+date - date
+time - time
+blob - binary large object
 --------------------------
 Constraints - 
 
