@@ -1,0 +1,26 @@
+>cd desktop
+>cd ..
+>C:
+>git config --global user.name "artjompoldsaar"
+>git config --global user.email "artjompoldsaar@gmail.com"
+>git config --global --list
+
+>git clone git@github.com:IrinaMerkulova/TARpv24andmebaasTerms.git
+
+>cd TARpv24andmebaasTerms
+>git status
+
+>git branch artjomp
+>git checkout artjomp
+
+>git status
+
+>git add.
+>git commit -a -m "Nimi on lisatud"
+
+>git push
+>git push --set-upstream origin artjomp
+
+
+
+
