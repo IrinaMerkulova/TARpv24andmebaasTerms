@@ -26,12 +26,12 @@ varchar - varchar - max characters/numbers to put
 ,time - aeg / to determinate time
 ,blob - sbo (eestis) - Binary Large Object - Suur binaarne objekt / it is used to store pictures, PDF files, audio and etc
 --------------------------
-Constraints - 
+Constraints - Piirangud / Help with commands
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - MITTE NULL / anything but not 0
+UNIQUE - UNIKAALNE / checks if values in a column are diffrent
+PRIMARY KEY - ESIMINE VÕTI / th column/columns that controls each record table 
+FOREIGN KEY - TEINE VÕTI / connects or makes refernces
+CHECK - KONTROLL -  limits the values in certain columns
+DEFAULT - TAVALISELT  - it used to set a default value for a column
+CREATE INDEX - LUUA INDEKS - it is used to create indexes in tables
