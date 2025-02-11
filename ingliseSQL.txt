@@ -8,14 +8,23 @@ Related tables - seotud tabelid
 Relational database - relatiivne andmebaas
 Relationship - seos
  ----------------------------------------------------------
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - первичный ключ
+Foreign Key - вторичный ключ
+One-to-many relationship - отношения один-ко-многим
+One-to-one relationship - отношения один-к-одному
+Query - запрос
+Report - отчет
+Form - форма
+Data type /
+varchar - строка, которая может быть разной длины, используется для хранения текста, например, имен или адресов.
+char - строка фиксированной длины
+int - целое число
+decimal - десятичное число
+text - строка текст
+bool - значение, которое может быть истиной или ложью
+date - дата
+time - время
+blob - бинарные данные, например видео или изображения
 --------------------------
 Constraints - 
 
