@@ -1,28 +1,38 @@
 Kirjuta oma nimi: Nikita
-SQL - Structured query language - структурный язык запроса
-DDL - Data Definition Language - язык определения данных
-DML - Data Manipulation Language - язык управления данных
-Database - база данных 
-Database management system - Система управления базами данных
-Related table -  Связанные таблицы
-Relational database - Реляционная база данных
-Relationship - взаимосвязь
+SQL - Structured query language    -   структурный язык запроса          - Struktureeritud päringukeel
+DDL - Data Definition Language     -    язык определения данных          -  Andmete määratlemise keel
+DML - Data Manipulation Language   -     язык управления данных          - Andmete manipuleerimise keel
+          Database                 -         база данных                 -          andmebaas
+Database management system         - Система управления базами данных    -  Andmebaasi haldussüsteem
+       Related table               -     Связанные таблицы               -          seotud
+    Relational database            -    Реляционная база данных          -   relaativne andmebaas
+        Relationship               -         взаимосвязь                 -           seos
 ----------------------------------------------------------------------------------------------------------------------------
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key                        -       первичный ключ                -        Esmane võti                    особенное поле в SQL-таблице, которое позволяет однозначно идентифицировать каждую запись в ней
+Foreign Key                        -       вторичный ключ                -         Välisvõti                     для того, чтобы связать две разные SQL-таблицы между собой
+One-to-many relationship           -   Отношения «один-ко-многим         -      Üks-mitmele suhe                 тип мощности, который относится к отношениям между двумя объектами
+One-to-one relationship            -       Один к одному                 -      Üks-ühele suhe                   связь между информацией в двух таблицах, где каждая запись в каждой таблице появляется только один раз
+Query                              -          запрос                     -          Päring                       предоставляет возможность графического задания SQL запроса к базе данных
+Report                             -          Отчет                      -          Aruanne                      
+Form                               -          Форма                      -           Vorm
+Data type /
+varchar                                         -                                      -                         переменное символьное поле представляет собой набор символьных данных неопределенной длины
+char                                            -                                      -                         тип данных, предназначенный для хранения одного символа (управляющего или печатного) в определённой кодировке
+int                                -        целое число                  -          täisarv                      Целое, целочисленный тип данных — один из самых простых примитивных типов данных в информатике
+decimal                            -   десятичный/десятичная дробь       -          kümnend                      тип данных для чисел с плавающей запятой, предназначенный для хранения точных десятичных значений (например, 10.25).
+text                               -           текст                     -           tekst                       строковый тип данных
+bit                                -            Бит                      -            Bit                        минимальная единица хранения информации, которая может быть либо 0, либо 1
+bool                               -      булевое значение               -       Boolean tüüp                    используется для проверки условий в логических операциях
+date                               -           Дата                      -          Kuupäev                      формат, в котором мы записываем день, месяц и год
+time                               -           Время                     -            Aeg                        понятие, которое помогает нам ориентироваться в пространстве событий и их длительности
+blob                               -    Бинарный большой объект          -      binaarne suur objekt             структура данных, которая используется для хранения больших объемов двоичных данных в базах данных или файловых системах
 --------------------------
-Constraints - 
+Constraints                        -        Ограничения                  -         Piirangud
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL -                                      -                                      -
+UNIQUE -                                        -                            ainulaadne piirang
+PRIMARY KEY - уже есть
+FOREIGN KEY - уже есть
+CHECK -                            -         условие                     -    kontrollige piirang
+DEFAULT -                                       -                             vaikimisi väärtus
+CREATE INDEX -                     -     создание индекса                -       loo indeks 
