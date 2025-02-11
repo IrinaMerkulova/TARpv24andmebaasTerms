@@ -19,7 +19,7 @@ Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
 --------------------------
 Constraints - 
 
-NOT NULL - 
+NOT NULL - nn
 UNIQUE - 
 PRIMARY KEY - 
 FOREIGN KEY - 
