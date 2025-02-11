@@ -1,21 +1,30 @@
 Kirjuta oma nimi: Hussein
-SQL - structured query language - язык структурированных запросов
-DDL - data defenition language - язык определения данных
-DML - Data Manipulation language - язык управления данными
+SQL - structured query language - язык структурированных запросов - struktureeritud päringukeel
+DDL - data defenition language - язык определения данных - andmete määratlemise keel
+DML - Data Manipulation language - язык управления данными - Andmete manipuleerimise keel
 Database - andmebaas
 Database management system - andmebaasi haldussüsteem
 Related tables - seotud tabelid
 Relational database - relatiivne andmebaas
 Relationship - seos
  ----------------------------
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - Esmane võti
+Foreign Key - Teine võti
+One-to-many relationship - Üks-mitmele suhe
+One-to-one relationship - Üks-ühele suhe
+Query - Päring - Запрос
+Report - Aruanne
+Form - Vorm
+Data type/
+varchar - varchar - max characters/numbers to put
+,char - (characters) - sümbolid / specifies max characters to put
+,int - (input) - sisend  /Command to put numbers
+,decimal - decimal (eestis) /how many numbers go after %
+,text - kirja / you can put anything in there but don't forget "" alr
+,bit, bool / it is used to store boolean values like 0, 1, or NULL
+,date - kuupäev - to determinate date (for an exsaple date then someone got their product) you put
+,time - aeg / to determinate time
+,blob - sbo (eestis) - Binary Large Object - Suur binaarne objekt / it is used to store pictures, PDF files, audio and etc
 --------------------------
 Constraints - 
 
