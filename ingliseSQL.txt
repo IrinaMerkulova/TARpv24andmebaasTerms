@@ -8,14 +8,24 @@ Related table - Seotud tabelid - связанные таблицы
 Relational database - Relatiivne andmebaas - реляционная база данных
 Relationship - seos - связь или отношения
 -------------------------------------------------------------------------------------------------
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - определяет первичный ключ таблицы.
+Foreign Key - задает внешний ключ для связи таблиц.
+One-to-many relationship - связь один ко многим 
+One-to-one relationship - связь один к одному
+Query - запрос данных
+Report - отчет
+Form - форма
+Data type //////////////////////////////////////////////
+varchar - text/sümbol
+char - text/sümbol
+int - Number 
+decimal - Number
+text - text/sümbol
+bit - Loogika 1 or 0 
+bool - Loogika 1 or 0
+date - date/time
+time - date/time
+blob - Loogika 1 or 0
 --------------------------
 Constraints - 
 
