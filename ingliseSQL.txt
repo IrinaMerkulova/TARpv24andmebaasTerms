@@ -1,13 +1,13 @@
-Kirjuta oma nimi: 
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
- 
+Kirjuta oma nimi: Mariia Posvystak
+SQL - Structure query language - структурный язык програмирования
+DDL - Data definition language - язык определения данных
+DML - Data definition language - язык управления данных
+Database - andmebaas
+Database management system - andmebaasi haldussüsteem
+Related table - seotud tabletid
+Relational database - relatiivne andmebaas
+Relationship - seos
+--------------------------------
 Primary Key - 
 Foreign Key - 
 One-to-many relationship - 
