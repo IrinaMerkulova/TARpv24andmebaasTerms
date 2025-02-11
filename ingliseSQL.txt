@@ -1,6 +1,6 @@
-
+Kirjuta oma nimi: Illia
 SQL - 
-DDL -ccc
+DDL -
 DML - 
 Database - 
 Database management system - 
