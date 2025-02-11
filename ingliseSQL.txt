@@ -6,7 +6,7 @@ Database - andmebaas
 Database management system - andmeebaasi haldussüsteem  
 Related table - связанные таблицы - seotud tabelid
 Relational database - relatiivne andmebaas
-Relationship - seos
+Relationship - seos - отношения
 ----------------------------
 Primary Key - 
 Foreign Key - 
