@@ -8,21 +8,30 @@ Related table - Seotud tabeild - Связанные таблицы
 Relational database - Relatiivne andmebaas
 Relationship - seos
  
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - Первичный ключ Esmane võti
+Foreign Key - Вторичный ключ Välisvõti
+One-to-many relationship - Соотношение один ко всем Üks-mitmele suhe
+One-to-one relationship - Соотношение один к одному Üks-ühele suhe
+Query - Запрос  Päring
+Report - Отчет  Aruanne
+Form - Форма  Vorm
+Data type 
+varchar - ограничение на количество символов
+char - ограничение на один символ
+int . целое число
+decimal - количество цифр всего и после запятой
+text - текст
+bit, bool - 1/0
+date - дата
+time - время
+blob - двоичный крупный объект
 --------------------------
-Constraints - 
+Constraints - Ограничения  Piirangud
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - Значение не равно нулю
+UNIQUE - Уникальный
+PRIMARY KEY - Первичный ключ
+FOREIGN KEY - Вторичный ключ
+CHECK - Проверить
+DEFAULT - Стандартный
+CREATE INDEX - Создать Индекс
