@@ -1,13 +1,13 @@
-
+Kirjuta oma nimi: 
 SQL - 
-DDL -ccc
+DDL -
 DML - 
 Database - 
 Database management system - 
 Related table - 
 Relational database - 
 Relationship - 
-Record - 
+ 
 Primary Key - 
 Foreign Key - 
 One-to-many relationship - 
@@ -15,7 +15,7 @@ One-to-one relationship -
 Query - 
 Report - 
 Form - 
-Data type / varchar, char, int, decimal, binary, varbinary, text, blob, enum, set
+Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
 --------------------------
 Constraints - 
 
