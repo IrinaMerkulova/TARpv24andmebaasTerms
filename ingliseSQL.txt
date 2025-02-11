@@ -1,5 +1,5 @@
-Kirjuta oma nimi: 
-SQL - 
+Kirjuta oma nimi: Radasheva
+SQL - a
 DDL -
 DML - 
 Database - 
