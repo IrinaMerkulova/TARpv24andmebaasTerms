@@ -26,12 +26,12 @@ date - on andmetüüp, kuupäeva jaoks
 time - on andmetüüp, aja jaoks
 blob - это тип данных для хранения больших двоичных данных
 --------------------------
-Constraints - 
+Constraints - Piirangud
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - не ноль
+UNIQUE - уникальный
+PRIMARY KEY - первичный ключ
+FOREIGN KEY - вторичный ключ
+CHECK - приверить
+DEFAULT - значение по умолчанию
+CREATE INDEX - создание индекса
