@@ -1,0 +1,18 @@
+cd Desktop
+cd ..
+c:
+git config --global user.name "nikitanikiforov"
+git система сохраняет твое имя
+git config --global user.email "nikitanikiforov08@gmail.com"
+git система сохраняет твою почту
+git config --global --list
+посмотреть что сохранил git
+
+git status
+git branch nikitan
+git checkout nikitan
+
+git add .
+git commit -a -m "text"
+git push
+git push --set-upstream origin nikitan
