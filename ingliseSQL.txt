@@ -18,10 +18,10 @@ Form - бланк - vorm
 Data type / - andmetüüp
 varchar - поле сменых символов
 char 
-int - числа . arv
+int - числа - arv
 decimal - числа с цифрой после комы - ujukomaarv
 text - текст
-bit, bool - переменая потипу "0", "1"
+bit, bool - логическая ошибка "0", "1"
 date - дата
 time - время
 blob
