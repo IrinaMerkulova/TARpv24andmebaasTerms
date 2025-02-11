@@ -1,0 +1,8 @@
+>cd .. # обратно 
+>git config --global user.name "name" #подписон
+>git config --global user.email "email"
+>git config --global --list
+>git branch illiablahun
+>git add .
+>git commit -a -m "Nimi on lisatud"
+>git push
