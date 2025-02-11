@@ -17,12 +17,11 @@ Report -
 Form - 
 Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
 --------------------------
-Constraints - 
-
-NOT NULL - nn
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+Constraints: Ограничения данных.
+NOT NULL: Запрещает пустые значения.
+UNIQUE: Уникальные значения.
+PRIMARY KEY: Уникальный идентификатор.
+FOREIGN KEY: Связь с другой таблицей.
+CHECK: Проверка значений.
+DEFAULT: Значение по умолчанию.
+CREATE INDEX: Создание индекса. 
