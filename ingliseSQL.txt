@@ -1,6 +1,6 @@
-Kirjuta oma nimi: 
-SQL - 
-DDL -
+Kirjuta oma nimi: Maksim
+SQL - Structured Query Language
+DDL - 
 DML - 
 Database - 
 Database management system - 
