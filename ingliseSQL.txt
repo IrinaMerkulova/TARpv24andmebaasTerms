@@ -1,12 +1,12 @@
 Kirjuta oma nimi: Roman Prikaztsikov
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+SQL - Structured Query Language - Структурный Язык Запросов
+DDL - Data Definition Language - Язык определения данных
+DML - Data Manipulation Language - Язык управления данными
+Database - База данных - Andmebaas
+Database management system - Andmebaasi haldussüsteem
+Related table - Seotud tabeild - Связанные таблицы
+Relational database - Relatiivne andmebaas
+Relationship - seos
  
 Primary Key - 
 Foreign Key - 
