@@ -14,7 +14,7 @@ One-to-many relationship - Üks-mitmele seos
 One-to-one relationship -  Üks-ühele seos
 Query - Päring 
 Report - Aruanne
-Form - Vorm
+Form - Vorm	
 Data type /
  varchar - Хранит строки переменной длины
  char - Хранит строки фиксированной длины
@@ -27,12 +27,12 @@ Data type /
  time -  Время (формат: HH:MI:SS)
  blob - Двоичные данные (используется для хранения изображений, аудио, видео и других файлов)
 --------------------------
-Constraints - 
+Constraints - Piirangud
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - Ei tohi olla tühi
+UNIQUE - Unikaalne
+PRIMARY KEY - Primaarvõti 
+FOREIGN KEY - Võõrvõti
+CHECK - Kontrolltingimus
+DEFAULT - Vaikeväärtus
+CREATE INDEX - Loo indeks
