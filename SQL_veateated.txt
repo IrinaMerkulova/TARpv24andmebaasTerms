@@ -28,6 +28,10 @@ String or binary data would be truncated in table 'veateade.dbo.test', column 'n
 ALTER TABLE test alter column nimi varchar(25);
 INSERT INTO test (id, nimi) VALUES (1, 'test');
 
+Violation of PRIMARY KEY constraint 'PK__test__3213E83FDE0BA7CA'. Cannot insert duplicate key in object 'dbo.test'. The duplicate key value is (1).
+--
+--vigane SQL: INSERT INTO test (id, nimi) VALUES (1, 'test2');
+
 
 
 
