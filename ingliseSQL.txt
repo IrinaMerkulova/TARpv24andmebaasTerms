@@ -1,13 +1,13 @@
 Kirjuta oma nimi: Nikita
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
- 
+SQL - Structured query language - структурный язык запроса
+DDL - Data Definition Language - язык определения данных
+DML - Data Manipulation Language - язык управления данных
+Database - база данных 
+Database management system - Система управления базами данных
+Related table -  Связанные таблицы
+Relational database - Реляционная база данных
+Relationship - взаимосвязь
+----------------------------------------------------------------------------------------------------------------------------
 Primary Key - 
 Foreign Key - 
 One-to-many relationship - 
