@@ -8,14 +8,25 @@ Related table - Связаная таблица
 Relational database - Реляционная база данных
 Relationship - Отношения
  
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - Первичный ключ
+Foreign Key - Вторичный ключ
+One-to-many relationship - Отношения "один ко многим"
+One-to-one relationship - Отношения "один к одному"
+Query - Запрос
+Report - Отчет
+Form - Форма
+
+Data type - Типы данных
+varchar - Строка, которая может быть разной длины
+char - Строка фиксированной длины
+int - Целое число
+decimal - Десятичное число
+text - Текст
+bit - Число которое можеть быть только 0 или 1
+bool - Логическое значение False/True (0/1)
+date - Дата
+time - Время
+blob - (Binary Large Object) Тип данных для хранение больших обьемов двоичных данных
 --------------------------
 Constraints - 
 
