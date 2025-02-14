@@ -1,0 +1,8 @@
+git clone git@github.com:IrinaMerkulova/TARpv24andmebaasTerms.git
+
+git branch litvinenko
+git checkout litvinenko
+git status
+git add .
+git commit -a -m "Commit name"
+git push
