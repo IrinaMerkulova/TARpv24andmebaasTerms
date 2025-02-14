@@ -1,12 +1,12 @@
 Kirjuta oma nimi: Nikita Litvinenko
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+SQL - (Structured Query Language) Язык структурированных запросов
+DDL - (Data Definition Language) Язык описания данных
+DML - (Data Manipulation Language) Язык управления (манипулирования) данными
+Database - База данных
+Database management system - Система управления базой данных
+Related table - Связаная таблица
+Relational database - Реляционная база данных
+Relationship - Отношения
  
 Primary Key - 
 Foreign Key - 
