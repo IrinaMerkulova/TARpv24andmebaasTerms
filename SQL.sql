@@ -38,10 +38,10 @@ condition - для фильтрации данных
 
 ALTER TABLE table_name ADD column_name datatype
 -----------------
-ALTER TABLE - 
-table_name - 
-ADD - 
-column_name2 datatype - 
+ALTER TABLE - изменениу структуры 
+table_name - имя таблицы
+ADD - добавлениенового столбца в таблицу
+column_name2 datatype - тип данных нового столбца (например, INT, VARCHAR, DATE и т. д.)
 
 -------------------------------
 
