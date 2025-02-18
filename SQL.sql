@@ -38,10 +38,10 @@ condition - навание столбца=название рядка относ
 
 ALTER TABLE table_name ADD column_name datatype
 -----------------
-ALTER TABLE - 
-table_name - 
-ADD - 
-column_name2 datatype - 
+ALTER TABLE - изменение таблицы
+table_name - название таблицы
+ADD - добавить 
+column_name2 datatype - название столбца и тип данных
 
 -------------------------------
 
