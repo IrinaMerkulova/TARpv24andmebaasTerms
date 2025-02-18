@@ -11,13 +11,13 @@ CREATE TABLE - создание таблицы
 table_name - имя новой таблицы
 (column_name1 datatype, ...) - имя столбца, тип данных
 
-INSERT INTO table_name(column_name1, ...)
-VALUES (column_value1, ...)
+INSERT INTO table_name(column_name1, ...)вставить в столб
+VALUES (column_value1, ...)добавить в столбец
 -----------------
-INSERT INTO - 
-table_name - 
-(column_name1 datatype, ...) - 
-VALUES (column_value1, ...) - 
+INSERT INTO - вставить в 
+table_name - имя таблицы
+(column_name1 datatype, ...) - имя таблицы, тип данных
+VALUES (column_value1, ...) - внести данные в столбец
 
 DROP TABLE table_name
 -----------------
