@@ -14,27 +14,27 @@ table_name - название таблицы
 INSERT INTO table_name(column_name1, ...)
 VALUES (column_value1, ...)
 -----------------
-INSERT INTO - 
-table_name - 
-(column_name1 datatype, ...) - 
-VALUES (column_value1, ...) - 
+INSERT INTO - вставить в
+table_name - название таблицы
+(column_name1 datatype, ...) - название таблицы, тип данных
+VALUES (column_value1, ...) - значения...
 
 DROP TABLE table_name
 -----------------
-DROP TABLE - 
-table_name - 
+DROP TABLE - удалить таблицу
+table_name - название таблицы
 
 ------------------------------------
 
-UPDATE table_name SET column_name1=column_value1
+UPDATE table_name SET column_name1=column_value1 
 WHERE condition
 -----------------
-UPDATE - 
-table_name - 
-SET - 
-column_name1=column_value1 - 
-WHERE - 
-condition - 
+UPDATE - изменить
+table_name - название таблицы
+SET - заменить на 
+column_name1=column_value1 - что-то на что-то через знак равно
+WHERE - где
+condition - условие
 
 ALTER TABLE table_name ADD column_name datatype
 -----------------
