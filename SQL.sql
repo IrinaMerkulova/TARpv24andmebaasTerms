@@ -12,29 +12,29 @@ table_name - название таблицы
 (column_name1 datatype, ...) - имя столбца и тип данных 
 
 INSERT INTO table_name(column_name1, ...)
-VALUES (column_value1, ...)
+VALUES (column_value1, ...) 
 -----------------
-INSERT INTO - 
-table_name - 
-(column_name1 datatype, ...) - 
-VALUES (column_value1, ...) - 
+INSERT INTO - вставить(добавить) в 
+table_name - название таблицы
+(column_name1 datatype, ...) - имя столбца и тип данных 
+VALUES (column_value1, ...) - значения, которые будут вставлены в соответсвующие столбцы
 
 DROP TABLE table_name
 -----------------
-DROP TABLE - 
-table_name - 
+DROP TABLE - удалить таблицу
+table_name - название таблицы
 
 ------------------------------------
 
 UPDATE table_name SET column_name1=column_value1
 WHERE condition
 -----------------
-UPDATE - 
-table_name - 
-SET - 
-column_name1=column_value1 - 
-WHERE - 
-condition - 
+UPDATE - обновить
+table_name - название таблицы
+SET - установить значение
+column_name1=column_value1 - column_value1 для столбца column_name1
+WHERE - где
+condition - условие
 
 ALTER TABLE table_name ADD column_name datatype
 -----------------
