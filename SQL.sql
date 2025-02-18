@@ -55,4 +55,4 @@ FOREIGN KEY - внешний ключ
 (column_name) - название столбца
 References - связь или ссылка
 table_name2 - название 2 таблицы
-(column_name2) - название 2 столбца
+(column_name2) - название 2 таблицы
