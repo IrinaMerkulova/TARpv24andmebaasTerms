@@ -38,10 +38,10 @@ condition - tingimus
 
 ALTER TABLE table_name ADD column_name datatype 
 -----------------
-ALTER TABLE - 
-table_name - 
-ADD - 
-column_name2 datatype - 
+ALTER TABLE - tabeli andmete vahetamine voi muutmine
+table_name - tabeli nimi
+ADD - lisa
+column_name2 datatype - teise veeru lisamine ja andmetuup 
 
 -------------------------------
 
