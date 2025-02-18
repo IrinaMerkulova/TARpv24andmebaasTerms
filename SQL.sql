@@ -36,12 +36,12 @@ column_name1=column_value1 - имя столбца = значение столб
 WHERE - выбор от куда
 condition - условие поиска
 
-ALTER TABLE table_name ADD column_name datatype
+ALTER TABLE table_name ADD column_name datatype - добавление в таблицу
 -----------------
-ALTER TABLE - 
+ALTER TABLE - добавление в таблицу
 table_name - 
-ADD - 
-column_name2 datatype - 
+ADD - добавить
+column_name2 datatype - имя таблицы и тип данных
 
 -------------------------------
 
