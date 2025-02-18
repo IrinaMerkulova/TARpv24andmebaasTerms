@@ -7,15 +7,15 @@ table_name - Название таблицы
 
 CREATE TABLE (column_name1 datatype, ...)
 -----------------
-CREATE TABLE - 
-table_name - 
-(column_name1 datatype, ...) - 
+CREATE TABLE - Создать таблицу
+table_name - Название таблицу
+(column_name1 datatype, ...) - Название столбца и его тип данных
 
 INSERT INTO table_name(column_name1, ...)
 VALUES (column_value1, ...)
 -----------------
-INSERT INTO - 
-table_name - 
+INSERT INTO - Вставить в
+table_name - Название таблицы
 (column_name1 datatype, ...) - 
 VALUES (column_value1, ...) - 
 
