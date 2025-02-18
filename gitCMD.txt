@@ -17,7 +17,10 @@ git config --global -- list
 git branch igoraleksejev
 git checkout igoraleksejev
 ----------
+git status
 git add .
 git commit -a -m "Nimi on lisatud"
 git push
-git status
+
+
+CTRL + S
