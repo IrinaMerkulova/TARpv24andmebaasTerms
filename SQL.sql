@@ -52,7 +52,7 @@ ALTER TABLE -изменить таблицу
 table_name - название таблицы
 ADD - добавить
 FOREIGN KEY -  первичный ключ
-(column_name) -
-References - 
-table_name2 - 
-(column_name2) - 
+(column_name) - столбец
+References - на подобии
+table_name2 - имя второй таблицы
+(column_name2) - второй столбец
