@@ -45,14 +45,14 @@ column_name2 datatype - имя таблицы и тип данных
 
 -------------------------------
 
-ALTER TABLE table_name 
-ADD FOREIGN KEY (column_name) References table_name2(column_name2)
+ALTER TABLE table_name - изменение таблицы
+ADD FOREIGN KEY (column_name) References table_name2(column_name2) - добавить вторичный ключ в -имя столбца- соединить с -имя таблицы-имя столбца-
 -----------------
-ALTER TABLE -
-table_name - 
-ADD - 
-FOREIGN KEY - 
-(column_name) - 
-References - 
-table_name2 - 
-(column_name2) - 
+ALTER TABLE - изменение таблицы 
+table_name - имя таблицы
+ADD - добавить
+FOREIGN KEY - вторичный ключ
+(column_name) - имя столбца
+References - связать 
+table_name2 - имя таблицы
+(column_name2) - имя столбца
