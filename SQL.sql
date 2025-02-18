@@ -29,14 +29,14 @@ table_name - tabeli nimi
 UPDATE table_name SET column_name1=column_value1
 WHERE condition
 -----------------
-UPDATE - 
-table_name - 
-SET - 
-column_name1=column_value1 - 
-WHERE - 
-condition - 
+UPDATE - uuenda
+table_name - tabeli nimi
+SET - loo
+column_name1=column_value1 - kust kuhu
+WHERE - kus
+condition - tingimus
 
-ALTER TABLE table_name ADD column_name datatype
+ALTER TABLE table_name ADD column_name datatype 
 -----------------
 ALTER TABLE - 
 table_name - 
