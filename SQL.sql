@@ -26,15 +26,15 @@ table_name - имя таблицы
 
 ------------------------------------
 
-UPDATE table_name SET column_name1=column_value1
-WHERE condition
+UPDATE table_name SET column_name1=column_value1 - обновить - имя таблицы - имя столбца = значение столбца
+WHERE condition - выбор информации
 -----------------
-UPDATE - 
+UPDATE - обновление
 table_name - 
-SET - 
-column_name1=column_value1 - 
-WHERE - 
-condition - 
+SET - установить
+column_name1=column_value1 - имя столбца = значение столбца
+WHERE - выбор от куда
+condition - условие поиска
 
 ALTER TABLE table_name ADD column_name datatype
 -----------------
