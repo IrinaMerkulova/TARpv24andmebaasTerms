@@ -7,9 +7,9 @@ table_name - Название таблицы
 
 CREATE TABLE (column_name1 datatype, ...)
 -----------------
-CREATE TABLE - 
-table_name - 
-(column_name1 datatype, ...) - 
+CREATE TABLE - tabeli loomine
+table_name - tabeli nimi
+(column_name1 datatype, ...) - veerude nimed ja andmetüübid
 
 INSERT INTO table_name(column_name1, ...)
 VALUES (column_value1, ...)
