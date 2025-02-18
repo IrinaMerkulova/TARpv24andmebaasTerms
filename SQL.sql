@@ -48,11 +48,11 @@ column_name2 datatype - teise veeru lisamine ja andmetuup
 ALTER TABLE table_name 
 ADD FOREIGN KEY (column_name) References table_name2(column_name2)
 -----------------
-ALTER TABLE -
-table_name - 
-ADD - 
-FOREIGN KEY - 
-(column_name) - 
-References - 
-table_name2 - 
-(column_name2) - 
+ALTER TABLE - tabeli andmete vahetamine voi muutmine
+table_name - tabeli nimi
+ADD - lisa
+FOREIGN KEY - välis võtti
+(column_name) - veeru nimi
+References - viited
+table_name2 - teise tabeli nime
+(column_name2) - teine veerg
