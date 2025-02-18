@@ -7,9 +7,9 @@ table_name - Название таблицы
 
 CREATE TABLE (column_name1 datatype, ...)
 -----------------
-CREATE TABLE - 
-table_name - 
-(column_name1 datatype, ...) - 
+CREATE TABLE - Создать таблицу
+table_name - Имя столбца
+(column_name1 datatype, ...) - Тип данных
 
 INSERT INTO table_name(column_name1, ...)
 VALUES (column_value1, ...)
