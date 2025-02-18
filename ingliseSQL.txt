@@ -1,28 +1,38 @@
 Kirjuta oma nimi: Eldar
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
+SQL - Structured Query Language
+DDL - Data Definition Language
+DML - Data Manipulation Language
+Database - Организованный набор данных, хранящихся в таблицах.
+Database management system - Программное обеспечение для управления базами данных.
+Related table - Таблица, связанная с другой через ключи.
+Relational database - База данных, где данные хранятся в таблицах, связанных между собой.
+Relationship - Связь между таблицами в базе данных.
  
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Primary Key - Уникальный идентификатор записи в таблице.
+Foreign Key - Ключ, который связывает таблицы, ссылаясь на первичный ключ другой таблицы.
+One-to-many relationship - Связь, где одна запись в таблице может быть связана с несколькими записями в другой.
+One-to-one relationship - Связь, где одна запись в таблице связана с одной записью в другой.
+Query - Запрос на извлечение данных из базы данных.
+Report - Отчёт — форматированное представление данных.
+Form - Интерфейс для ввода и редактирования данных.
+Data type - тип данных
+ varchar - строка переменной длины/ колво символов
+char - строка фиксированной длины
+ int - оператор целых чисел
+ decimal - оператор дробных чисел
+ text - текст
+ bit - двоичный оператор
+ bool - логический тип, true/false
+ date - оператор даты
+ time - оператор времени
+ blob - двоичные данные
 --------------------------
-Constraints - 
+Constraints - ограничения
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - не ноль
+UNIQUE - уникальный
+PRIMARY KEY - первичный ключ
+FOREIGN KEY - вторичный ключ
+CHECK - проверка
+DEFAULT - по умолчанию
+CREATE INDEX - создать индекс
