@@ -48,11 +48,11 @@ column_name2 datatype - название столбцов
 ALTER TABLE table_name 
 ADD FOREIGN KEY (column_name) References table_name2(column_name2)
 -----------------
-ALTER TABLE -
-table_name - 
-ADD - 
-FOREIGN KEY - 
-(column_name) - 
-References - 
-table_name2 - 
-(column_name2) - 
+ALTER TABLE - изменение таблицы
+table_name - название таблицы
+ADD - добавить
+FOREIGN KEY - вторичный ключ
+(column_name) - название столбца
+References - ссылка
+table_name2 - название таблицы
+(column_name2) - название столбца
