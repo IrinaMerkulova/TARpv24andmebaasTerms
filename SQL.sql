@@ -36,23 +36,23 @@ column_name1=column_value1 - изменение название с одного
 WHERE - фильтрация записей
 condition - значение 
 
-ALTER TABLE table_name ADD column_name datatype
+ALTER TABLE table_name ADD column_name datatype -  зволяет добавить новый столбец в таблицу.
 -----------------
-ALTER TABLE - 
-table_name - 
-ADD - 
-column_name2 datatype - 
+ALTER TABLE - используется для изменения структуры существующей таблицы. 
+table_name - название таблицы
+ADD - добавить в таблицы
+column_name2 datatype - имя таблицы и тип данных
 
 -------------------------------
 
-ALTER TABLE table_name 
-ADD FOREIGN KEY (column_name) References table_name2(column_name2)
+ALTER TABLE table_name - добавить новый столбец
+ADD FOREIGN KEY (column_name) References table_name2(column_name2) - добавления вторичного ключа где название из одной таблицы копируется в другую
 -----------------
-ALTER TABLE -
-table_name - 
-ADD - 
-FOREIGN KEY - 
-(column_name) - 
-References - 
-table_name2 - 
-(column_name2) - 
+ALTER TABLE - добавление таблицы
+table_name - название таблицы
+ADD - добавить
+FOREIGN KEY - вторичный ключ
+(column_name) - название столбца для которого будет использован вторичный ключ
+References - отсылание к стобцу из которого будет взят вторичный ключ
+table_name2 - имя таблицы из которого будет взят вторичный ключ
+(column_name2) - столбец из которого будет взят вторичный ключ
