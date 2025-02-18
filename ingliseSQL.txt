@@ -1,28 +1,38 @@
-Kirjuta oma nimi: 
-SQL - 
-DDL -
-DML - 
-Database - 
-Database management system - 
-Related table - 
-Relational database - 
-Relationship - 
- 
-Primary Key - 
-Foreign Key - 
-One-to-many relationship - 
-One-to-one relationship - 
-Query - 
-Report - 
-Form - 
-Data type / varchar, char, int, decimal, text, bit, bool, date, time, blob
+Kirjuta oma nimi: Milan Petrovski
+SQL - Structured query language
+DDL - data definition language
+DML - data manipulation language
+Database - база данных
+Database management system - система управление базами данных
+Related table - связанная таблица
+Relational database - relatiivne andmebaas
+Relationship - seos
+ ----------------------
+Primary Key - первичный ключ
+Foreign Key - внешний ключ
+One-to-many relationship - отношение "один ко многим"
+One-to-one relationship - отношение "один к одному"
+Query - запрос
+Report - отчет
+Form - форма
+Data type - тип данных:
+varchar - строка переменной длины
+char - строка фиксированной длины
+int - целое число
+decimal - десятичное число
+text - текст
+bit - булев тип (0 или 1)
+bool - логический тип (true/false)
+date - дата
+time - время
+blob - двоичные данные (например, изображения, файлы)
 --------------------------
-Constraints - 
+Constraints - ограниченияы
 
-NOT NULL - 
-UNIQUE - 
-PRIMARY KEY - 
-FOREIGN KEY - 
-CHECK - 
-DEFAULT - 
-CREATE INDEX - 
+NOT NULL - НЕ NULL
+UNIQUE - УНИКАЛЬНО
+PRIMARY KEY - ПЕРВИЧНЫЙ КЛЮЧ
+FOREIGN KEY - ВНЕШНИЙ КЛЮЧ
+CHECK - ПРОВЕРКА
+DEFAULT - ПО УМОЛЧАНИЮ
+CREATE INDEX - СОЗДАТЬ ИНДЕКС
