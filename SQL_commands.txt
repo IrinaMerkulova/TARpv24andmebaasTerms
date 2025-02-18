@@ -1,0 +1,4 @@
+git config --global user.name "milan petrovski"
+
+git config --global user.gmail "milan.petrovski8@gmail.com"
+
