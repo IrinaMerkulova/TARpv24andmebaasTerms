@@ -21,8 +21,8 @@ VALUES (column_value1, ...) -добавление данных в таблицу
 
 DROP TABLE table_name
 -----------------
-DROP TABLE - 
-table_name - 
+DROP TABLE - удалить таблицу
+table_name - название таблицы
 
 ------------------------------------
 
