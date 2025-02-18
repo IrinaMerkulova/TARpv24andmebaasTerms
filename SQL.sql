@@ -38,21 +38,21 @@ condition - условие
 
 ALTER TABLE table_name ADD column_name datatype
 -----------------
-ALTER TABLE - 
-table_name - 
-ADD - 
-column_name2 datatype - 
+ALTER TABLE - изменить таблицу
+table_name - названия таблицы 
+ADD - добавить
+column_name2 datatype - имя столбца и тип данных 
 
 -------------------------------
 
 ALTER TABLE table_name 
 ADD FOREIGN KEY (column_name) References table_name2(column_name2)
 -----------------
-ALTER TABLE -
-table_name - 
-ADD - 
-FOREIGN KEY - 
-(column_name) - 
-References - 
-table_name2 - 
-(column_name2) - 
+ALTER TABLE - изменить таблицу
+table_name - названия таблицы 
+ADD - добавить
+FOREIGN KEY - внешний ключ
+(column_name) - имя столбца, оторый станет внешним ключом
+References - ссылается/остылается на
+table_name2 - название второй таблицы, на которую ссылается внешний ключ
+(column_name2) -  имя столбца в таблице, на который отсылается внешний ключ
