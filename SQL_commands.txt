@@ -1,4 +1,18 @@
-git config --global user.name "milan petrovski"
+git config --global user.name "milan petrovski"  --изменить имя в конфиге
 
-git config --global user.gmail "milan.petrovski8@gmail.com"
+git config --global user.gmail "milan.petrovski8@gmail.com" --изменить почту в конфиге
+
+git config --global --list  --посмотреть конфиг
+
+cd TARpv24andmebaasTerms --переместится в рабочую директорию
+
+git checkout -b MILAN --переключится на свою ветку
+
+git status --просмотреть текущую ветку
+
+git add . -- это сокращение для добавления всех изменений в текущей директории 
+
+git commit -a -m "commit text" -- коммит
+
+git push --пуш
 
